@@ -79,6 +79,9 @@
 # CMS后台产品架构图
 ![CMS后台产品架构图](https://images.gitee.com/uploads/images/2019/1229/203234_5054ad20_1922226.png "e5b9bb60b9af9475f7efbba1ce3587b.png")
 
+# 主要功能流程图
+![主要功能流程图](https://images.gitee.com/uploads/images/2020/0101/220947_f3c2ddde_1922226.png "主要功能流程图.png")
+
 # 前端产品PRD5： 前端产品逻辑性 
 
 #### 一、 全局说明
